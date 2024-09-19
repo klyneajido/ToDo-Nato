@@ -1,4 +1,4 @@
-import Footer from "./Footer";
+import Footer from "./Footer.jsx";
 import Form from "./Form";
 import List from "./List";
 import { useState } from "react";
